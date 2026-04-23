@@ -1,0 +1,1 @@
+A simple ToDoList, that can do such functions as: adding, removing, marking as done tasks, can add description and clear the list. The main feauture is that it saves the list into a file, which it then reads on program start.
